@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*_files/
+*_emails.txt
+*_reaper_results.txt
